@@ -58,8 +58,8 @@ for /l %%d in (0,1,100000) do (
         echo +%%d: !count_diff_%%d!
     )
 )
-echo Average value of mylens.txt: %avg_mylen%
-echo Average value of optlens.txt: %avg_optlen%
+echo My average: %avg_mylen%
+echo Optimal average: %avg_optlen%
 echo Difference between averages: %avg_diff%
 :end
 del diffs.txt
