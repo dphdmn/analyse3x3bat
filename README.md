@@ -37,8 +37,8 @@ Total count: 100
 +8: 1
 +10: 1
 +12: 1
-Average value of mylens.txt: 22.200
-Average value of optlens.txt: 21.000
+My average: 22.200
+Optimal average: 21.000
 Difference between averages: 1.200
 Press any key to continue . . .
 ```
